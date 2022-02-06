@@ -1,0 +1,1 @@
+INSERT INTO Roles VALUES ($id, $name, $guildId, $parentId)

@@ -1,0 +1,1 @@
+INSERT INTO Guilds VALUES ($id, $name)
